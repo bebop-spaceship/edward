@@ -3,6 +3,6 @@
 <h6>Estagío: Toddler's Bottle</h6>
 <hr>
 <ol>
-  <li>fd: 1</li>
-  <li>col: 0</li>
+  <li>fd: complete</li>
+  <li>col: incomplete</li>
 </ol>
